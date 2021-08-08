@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luiz 
 - 👀 I’m interested in Everything about technology
-- 🌱 I’m currently learning Mulesoft 
+- 🌱 I’m currently working with Spring
 - 📫 How to reach me: linkedin.com/in/lfol97
 
 <!---
