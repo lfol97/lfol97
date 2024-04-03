@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Luiz 
 - 👀 I’m interested in Everything about technology
 - 🌱 I’m currently working with Spring
-- 📫 How to reach me: linkedin.com/in/lfol97
+
 
 <!---
 lfol97/lfol97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
